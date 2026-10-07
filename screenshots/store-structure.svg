@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Arial, Helvetica, sans-serif">
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+  <rect width="1000" height="560" fill="#ffffff"/>
+  <text x="500" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">LURÈVE: catalog and content map</text>
+
+  <text x="30" y="72" font-size="14" font-weight="700" fill="#0f172a">Catalog: 40 products in 8 categories</text>
+  <rect x="30" y="86" width="290" height="130" rx="10" fill="#e0e7ff" stroke="#4f46e5" stroke-width="1.5"/>
+  <text x="175" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#1e1b4b">10 fragrances</text>
+  <text x="175" y="136" text-anchor="middle" font-size="12" fill="#1e1b4b">Extrait de Parfum</text>
+  <text x="175" y="154" text-anchor="middle" font-size="12" fill="#1e1b4b">men's, women's and unisex lines</text>
+  <text x="175" y="176" text-anchor="middle" font-size="12" fill="#1e1b4b">each sold in 5 ml, 30 ml and 50 ml</text>
+  <text x="175" y="196" text-anchor="middle" font-size="12" fill="#1e1b4b">as separate simple products (30)</text>
+
+  <rect x="350" y="86" width="290" height="130" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="1.5"/>
+  <text x="495" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#064e3b">10 sets</text>
+  <text x="495" y="136" text-anchor="middle" font-size="12" fill="#064e3b">listed under Bundles, Couple Packs</text>
+  <text x="495" y="154" text-anchor="middle" font-size="12" fill="#064e3b">and Discovery Sets (5 each)</text>
+  <text x="495" y="176" text-anchor="middle" font-size="12" fill="#064e3b">Best Sellers (6) is a curated category</text>
+  <text x="495" y="194" text-anchor="middle" font-size="12" fill="#064e3b">a product can sit in several categories</text>
+
+  <rect x="670" y="86" width="300" height="130" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <text x="820" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#78350f">Listing rule (custom code)</text>
+  <text x="820" y="136" text-anchor="middle" font-size="12" fill="#78350f">shop, category and tag pages</text>
+  <text x="820" y="154" text-anchor="middle" font-size="12" fill="#78350f">show the 50 ml bottles</text>
+  <text x="820" y="176" text-anchor="middle" font-size="12" fill="#78350f">the 5 ml and 30 ml sizes stay</text>
+  <text x="820" y="194" text-anchor="middle" font-size="12" fill="#78350f">reachable from product pages and sets</text>
+
+  <line x1="320" y1="150" x2="346" y2="150" stroke="#475569" stroke-width="1.5" marker-end="url(#a)"/>
+  <line x1="640" y1="150" x2="666" y2="150" stroke="#475569" stroke-width="1.5" marker-start="url(#a)"/>
+
+  <line x1="30" y1="250" x2="970" y2="250" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+  <text x="30" y="282" font-size="14" font-weight="700" fill="#0f172a">Content that supports the catalog</text>
+
+  <rect x="30" y="296" width="220" height="110" rx="8" fill="#fce7f3" stroke="#db2777"/>
+  <text x="140" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#831843">Fragrance guide</text>
+  <text x="140" y="344" text-anchor="middle" font-size="12" fill="#831843">quick-reference table and</text>
+  <text x="140" y="360" text-anchor="middle" font-size="12" fill="#831843">a card per fragrance:</text>
+  <text x="140" y="376" text-anchor="middle" font-size="12" fill="#831843">notes, occasion, story</text>
+
+  <rect x="270" y="296" width="220" height="110" rx="8" fill="#fce7f3" stroke="#db2777"/>
+  <text x="380" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#831843">FAQ</text>
+  <text x="380" y="344" text-anchor="middle" font-size="12" fill="#831843">6 categories, 17 questions</text>
+  <text x="380" y="360" text-anchor="middle" font-size="12" fill="#831843">accordion layout and</text>
+  <text x="380" y="376" text-anchor="middle" font-size="12" fill="#831843">FAQPage structured data</text>
+
+  <rect x="510" y="296" width="220" height="110" rx="8" fill="#fce7f3" stroke="#db2777"/>
+  <text x="620" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#831843">Blog</text>
+  <text x="620" y="344" text-anchor="middle" font-size="12" fill="#831843">32 posts in a Perfumes</text>
+  <text x="620" y="360" text-anchor="middle" font-size="12" fill="#831843">category: basics, per-fragrance</text>
+  <text x="620" y="376" text-anchor="middle" font-size="12" fill="#831843">stories and buying guides</text>
+
+  <rect x="750" y="296" width="220" height="110" rx="8" fill="#fce7f3" stroke="#db2777"/>
+  <text x="860" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#831843">Brand and policy pages</text>
+  <text x="860" y="344" text-anchor="middle" font-size="12" fill="#831843">home, about, contact,</text>
+  <text x="860" y="360" text-anchor="middle" font-size="12" fill="#831843">terms, refunds and returns,</text>
+  <text x="860" y="376" text-anchor="middle" font-size="12" fill="#831843">four-column footer</text>
+
+  <rect x="30" y="440" width="940" height="80" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="500" y="468" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">How a visitor moves through it</text>
+  <text x="500" y="492" text-anchor="middle" font-size="12" fill="#334155">search or a blog post, then the fragrance guide or a product page, then the cart and checkout.</text>
+  <text x="500" y="510" text-anchor="middle" font-size="12" fill="#334155">The FAQ, the chat concierge and a WhatsApp button answer questions along the way.</text>
+</svg>
